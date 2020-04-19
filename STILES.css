@@ -1,0 +1,110 @@
+
+
+#display-6 {
+    text-align: center;
+    margin-block: 5px;
+}
+
+#navbarr {
+	text-align: right;
+}
+
+img {
+    display:block;
+    position: static;
+	height: 50%;
+	padding: 10px; 
+    margin-bottom: 10px;
+    margin-right: 1px;
+}
+.card-img-top {
+    width: 25%;
+    height: 25%;
+}
+img:hover {
+	opacity: 75%;
+}
+
+#about {
+	padding: 10px;
+}
+
+#portfolio {
+	padding-top: 20px;
+	border-color: black;
+	border-width: 2px;
+	background-color:lightslategrey;
+	background-clip: 75%;
+
+}
+
+.column-6 {
+	display: block;
+	margin: auto;
+}
+
+.card-body {
+	margin-top: -97px;
+    background-color: lightgray;
+    text-align: right;
+    opacity: 80%
+}
+
+
+.footer {
+	background-color: lightgray;
+	border-top: darkgreen;
+	border-width: 5px;
+	text-align: center;
+	margin: auto;
+    position: absolute;
+	bottom: 0px;
+	right: 0px;
+	left: 0px;
+	width: 100%;
+}
+
+.container {
+    float: left;
+    margin-top: 40px;
+    
+}
+
+.container-fluid {
+	text-align: center;
+}
+
+
+.card-text {
+	padding-left: 20px;
+}
+
+.card-body {
+	padding-left: 5px;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.top-right {
+    position: relative;
+    left: 275px;
+    bottom: 150px;
+    font-size: 20px;
+    font-weight: bolder;
+    overflow-wrap: inherit;
+}
+
+.top-left {
+    position: relative;
+    left: 25px;
+    bottom: 100px;
+    font-size: 20px;
+    font-weight: bolder;
+    
+}
+
+html {
+    background-color: rgba(0, 0, 0, 0.068);
+}
